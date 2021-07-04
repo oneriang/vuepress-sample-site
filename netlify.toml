@@ -5,4 +5,4 @@
   publish = ".vuepress/dist"
 
   # Default build command.
-  command = "vuepress build"
+  command = "vuepress build docs"
