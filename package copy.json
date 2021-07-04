@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@quasar/extras": "^1.10.8",
+    "quasar": "1.15.21",
+    "vue-cli": "^2.9.6",
+    "vuepress": "^1.8.2"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-blog": "^1.9.4",
+    "sass": "1.32.12",
+    "sass-loader": "^10.1.0",
+    "vue-cli-plugin-quasar": "~4.0.1"
+  }
+}

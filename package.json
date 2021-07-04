@@ -1,0 +1,36 @@
+{
+  "name": "vuepress-netlifycms",
+  "version": "0.0.0",
+  "private": true,
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://spdx.org/licenses/MIT.html"
+    },
+    {
+      "type": "CC-BY-NC-SA-4.0",
+      "url": "https://spdx.org/licenses/CC-BY-NC-SA-4.0.html"
+    }
+  ],
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.10.8",
+    "quasar": "1.15.21",
+    "vue-cli": "^2.9.6",
+    "vuepress": "^1.8.2"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-blog": "^1.9.4",
+    "sass": "1.32.12",
+    "sass-loader": "^10.1.0",
+    "vue-cli-plugin-quasar": "~4.0.1"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "bracketSpacing": false,
+    "trailingComma": "none"
+  }
+}
