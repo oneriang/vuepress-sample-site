@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (master by default)
+  branch: main # Branch to update (master by default)
 
 # media_folder: 'media' # Folder where user uploaded files should go
 locale: 'ja' #メッセージが日本語化
